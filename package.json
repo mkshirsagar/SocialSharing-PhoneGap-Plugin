@@ -43,8 +43,8 @@
   "author": "Eddy Verbruggen - @EddyVerbruggen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin/issues"
+    "url": "https://github.com/mkshirsagar/SocialSharing-PhoneGap-Plugin/issues"
   },
-  "homepage": "https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin#readme",
+  "homepage": "https://github.com/mkshirsagar/SocialSharing-PhoneGap-Plugin#readme",
   "types": "./types/index.d.ts"
 }
